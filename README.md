@@ -1,2 +1,2 @@
-# thy_projects
+# THY
 THY içerikleri
