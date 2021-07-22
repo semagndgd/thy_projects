@@ -1,4 +1,4 @@
 # THY
 ## Basılı İşler klasöründe;
 #### ilac_tasimaciligi 
-> Shutterstock üzerinden belirlenen konsepte göre görseller bulunup, gerekli düzenlemeler (retouch) Photoshop, Illustrator ve InDesign toolları kullanılarak proje tamamlanır.
+> Belirlenen konsepte göre, Shutterstock üzerinden görseller bulunup, gerekli düzenlemeler (retouch, decupe) Photoshop, Illustrator ve InDesign toolları kullanılarak proje yapılır.
